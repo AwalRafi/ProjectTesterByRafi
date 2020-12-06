@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "629160667131",
+    "project_id": "aplikasi-rongsok",
+    "storage_bucket": "aplikasi-rongsok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629160667131:android:938a1526d94bdd7ceb8d5e",
+        "android_client_info": {
+          "package_name": "com.example.projecttesterbyrafi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629160667131-fdt7odomiskjcbbjfiouufmukvjt4dpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1o7Ta805Hk4JBUJ4GmQQSLfTwXBGXJsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629160667131-fdt7odomiskjcbbjfiouufmukvjt4dpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629160667131:android:76348c942404c1f9eb8d5e",
+        "android_client_info": {
+          "package_name": "com.test.AppRongsok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629160667131-fdt7odomiskjcbbjfiouufmukvjt4dpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1o7Ta805Hk4JBUJ4GmQQSLfTwXBGXJsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629160667131-fdt7odomiskjcbbjfiouufmukvjt4dpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
